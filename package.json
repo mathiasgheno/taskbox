@@ -2,6 +2,7 @@
   "name": "ui-testing-guide-code",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/mathiasgheno/taskbox.git",
   "dependencies": {
     "@chakra-ui/icons": "^1.0.12",
     "@chakra-ui/react": "^1.6.0",
